@@ -1,25 +1,21 @@
 Arm Path
 
-1 sec to stand still at pos (0, 20) - 0-1s
+2 sec to move to pos (-10, 30) - 1-4s
+2 sec to move to pos (-10, 40) - 4-6s
+2 sec to close gripper 6-8s
+2 sec to move to pos (-10, 30) 8-10s
+2 sec to open gripper 10-12s
 
-2 sec to move to pos (-10, 30) - 1-3s
-2 sec to move to pos (-10, 40) - 3-5s
-2 sec to close gripper 5-7s
-2 sec to move to pos (-10, 30) 7-9s
-2 sec to open gripper 9-11s
+2 sec to move to pos (0, 30) 12-14s
+2 sec to move to pos (0, 40) 14-16s
+2 sec to close gripper 16-18s
+2 sec to move to pos (0,30) 18-20s
+2 sec to open gripper 20-22s
 
-2 sec to move to pos (0, 30) 11-13s
-2 sec to move to pos (0, 40) 13-15s
-2 sec to close gripper 15-17s
-2 sec to move to pos (0,30) 17-19s
-2 sec to open gripper 19-21s
-
-2 sec to move to pos (10, 30) 21-23s
-2 sec to move to pos (10, 40) 23-25s
-2 sec to close gripper 25-27s
-2 sec to move to pos (10,30) 27-29s
-2 sec to open gripper 29-31s
-
-2 sec to come back to the original pos (0, 20) 31-33s
+2 sec to move to pos (10, 30) 22-24s
+2 sec to move to pos (10, 40) 24-26s
+2 sec to close gripper 26-28s
+2 sec to move to pos (10,30) 28-30s
+2 sec to open gripper 30-33s
 
 Total 33s
