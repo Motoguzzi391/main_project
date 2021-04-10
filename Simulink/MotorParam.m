@@ -5,15 +5,15 @@
 % Start with a clean slate
 clear all;
 
-Nominal_Voltage = 12; %V
-No_Load_Speed = 6400; %rpm
-No_Load_Current = 15.6; %mA
-Terminal_resistance = 5.82; %ohms
-Terminal_inductance = .411; %mH
-Torque_constant = 17.8; %mNm/A
-Speed_constant = 1/537; %V/rpm
-SpeedTorque_gradient = 176; %rpm/mNm
-Rotor_inertia = 2.28E-8*9.81; %Nms^2
+Nominal_Voltage = 18; %V
+No_Load_Speed = 6110; %rpm
+No_Load_Current = 12.8; %mA
+Terminal_resistance = 8.75; %ohms
+Terminal_inductance = .535; %mH
+Torque_constant = 28; %mNm/A
+Speed_constant = 1/342; %V/rpm
+SpeedTorque_gradient = 107; %rpm/mNm
+Rotor_inertia = 5.44E-8*9.81; %Nms^2
 
 
 % Motor parameters
